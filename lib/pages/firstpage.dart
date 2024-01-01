@@ -19,7 +19,7 @@ class _FirstPageState extends State<FirstPage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              "I'm Rich",
+              "I'm Rich man",
               style: GoogleFonts.lobsterTwo(
                   color: Colors.white,
                   fontSize: 50,
